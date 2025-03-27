@@ -1,5 +1,9 @@
 # Meraki Reboot AP
- Meraki Python API script to reboot APs without Meraki switches
+ Meraki Python API script to reboot all the Meraki APs of an organisation without using Meraki switches :
+
+<p align="center">
+ <img width="806" alt="image" src="https://github.com/user-attachments/assets/6a68c84b-d8e0-4ca8-a71e-d96879642d05" />
+</p>
 
 ## Prerequisites
 - Meraki Dashboard access
@@ -58,4 +62,11 @@ If you get a status code 429, it means that you are rate limited, because you al
 AP AAAA-AAAA-AAAA reboot status 429
 AP BBBB-BBBB-BBBB reboot status 429
 ```
+
+You can check on the Meraki dashboard that the given AP are reloaded :
+
+<img width="274" alt="image" src="https://github.com/user-attachments/assets/e08ac407-be8a-4104-8316-ed918c44986e" />
+<img width="1180" alt="image" src="https://github.com/user-attachments/assets/b7f80aeb-546e-4507-92fc-1078e36523f6" />
+
+
 
