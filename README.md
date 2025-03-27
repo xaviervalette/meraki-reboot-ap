@@ -1,7 +1,7 @@
 # Meraki Reboot AP
  Meraki Python API script to reboot all the Meraki APs of an organisation without using Meraki switches :
  
-![image](https://github.com/user-attachments/assets/098eeb1f-8959-4fd2-9c70-b7b43481fd06)
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/098eeb1f-8959-4fd2-9c70-b7b43481fd06" />
 
 ## Prerequisites
 - Meraki Dashboard access
@@ -64,5 +64,7 @@ AP BBBB-BBBB-BBBB reboot status 429
 You can check on the Meraki dashboard that the given AP are reloaded :
 
 <img width="274" alt="image" src="https://github.com/user-attachments/assets/e08ac407-be8a-4104-8316-ed918c44986e" />
+<img width="1180" alt="image" src="https://github.com/user-attachments/assets/b7f80aeb-546e-4507-92fc-1078e36523f6" />
+
 
 
