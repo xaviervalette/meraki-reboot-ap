@@ -2,7 +2,7 @@
  Meraki Python API script to reboot all the Meraki APs of an organisation without using Meraki switches :
 
 <p align="center">
- <img width="806" alt="image" src="https://github.com/user-attachments/assets/6a68c84b-d8e0-4ca8-a71e-d96879642d05" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/1a3707a2-5064-41a9-a433-6ab6bb526cf4" />
 </p>
 
 ## Prerequisites
